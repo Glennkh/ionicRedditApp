@@ -1,2 +1,2 @@
 # ionicRedditApp
-Subreddit viewer built with ionic
+Android app subreddit viewer built with ionic
